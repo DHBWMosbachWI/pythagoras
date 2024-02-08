@@ -1,0 +1,621 @@
+{
+    " timestamp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "attempted_attempts": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.player.age": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8
+    },
+    "baseball.player.batting_hand": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.player.batting_side": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8
+    },
+    "baseball.player.height": {
+        "precision": 0.125,
+        "recall": 0.125,
+        "f1-score": 0.125,
+        "support": 8
+    },
+    "baseball.player.name": {
+        "precision": 0.058823529411764705,
+        "recall": 0.0625,
+        "f1-score": 0.06060606060606061,
+        "support": 16
+    },
+    "baseball.player.position": {
+        "precision": 0.1111111111111111,
+        "recall": 0.125,
+        "f1-score": 0.11764705882352941,
+        "support": 8
+    },
+    "baseball.player.throwing_hand": {
+        "precision": 0.25,
+        "recall": 0.25,
+        "f1-score": 0.25,
+        "support": 8
+    },
+    "baseball.player.weight": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8
+    },
+    "baseball.player.wins": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.player.wins_above_replacement": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8
+    },
+    "baseball.player.wins_above_the_level": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team. Strikeouts": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team. homeruns": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.at_bats": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.average_age": {
+        "precision": 0.043478260869565216,
+        "recall": 0.05263157894736842,
+        "f1-score": 0.04761904761904762,
+        "support": 19
+    },
+    "baseball.team.balks": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.bases_on_balls": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 19
+    },
+    "baseball.team.bases_on_balls+": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.batters": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.batters_faced": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.batters_faced_by": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.bb9": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.bb9_": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.cauught_stealing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.complete_game": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.delivery_teams": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.doubles": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.earned_runs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.era": {
+        "precision": 0.06666666666666667,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.07407407407407407,
+        "support": 12
+    },
+    "baseball.team.era+": {
+        "precision": 0.07692307692307693,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.08,
+        "support": 12
+    },
+    "baseball.team.fip": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.games_ Finished": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.games_behind": {
+        "precision": 0.25,
+        "recall": 0.2857142857142857,
+        "f1-score": 0.26666666666666666,
+        "support": 7
+    },
+    "baseball.team.games_finished": {
+        "precision": 0.125,
+        "recall": 0.16666666666666666,
+        "f1-score": 0.14285714285714288,
+        "support": 12
+    },
+    "baseball.team.games_finished_by_team": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.games_finished_last": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.games_played": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 19
+    },
+    "baseball.team.games_played_by_team": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.games_played_since_joining_team": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.games_started": {
+        "precision": 0.1111111111111111,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.09523809523809525,
+        "support": 12
+    },
+    "baseball.team.grounded_double_plays": {
+        "precision": 0.125,
+        "recall": 0.14285714285714285,
+        "f1-score": 0.13333333333333333,
+        "support": 7
+    },
+    "baseball.team.h9": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.hit_by_pitch": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 19
+    },
+    "baseball.team.hits": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 19
+    },
+    "baseball.team.hits_per_game": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.home_runs": {
+        "precision": 0.1111111111111111,
+        "recall": 0.05263157894736842,
+        "f1-score": 0.07142857142857142,
+        "support": 19
+    },
+    "baseball.team.home_runs_per_game": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.hr": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.hr9": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.hr9_per_game": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.innings_pitched": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.intentional_bases_on_balls": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 19
+    },
+    "baseball.team.ip": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.losses": {
+        "precision": 0.23529411764705882,
+        "recall": 0.21052631578947367,
+        "f1-score": 0.2222222222222222,
+        "support": 19
+    },
+    "baseball.team.mets": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.name": {
+        "precision": 0.08108108108108109,
+        "recall": 0.08823529411764706,
+        "f1-score": 0.08450704225352113,
+        "support": 34
+    },
+    "baseball.team.named_stealing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.number_of_players": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 19
+    },
+    "baseball.team.obp": {
+        "precision": 0.14285714285714285,
+        "recall": 0.14285714285714285,
+        "f1-score": 0.14285714285714285,
+        "support": 7
+    },
+    "baseball.team.ops": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.ops+": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.plate_appearances": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.replays": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.run_bases_on_balls": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.runners_left_on_base": {
+        "precision": 0.05263157894736842,
+        "recall": 0.05263157894736842,
+        "f1-score": 0.05263157894736842,
+        "support": 19
+    },
+    "baseball.team.runs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 19
+    },
+    "baseball.team.runs_allowed": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.runs_allowed_per_game": {
+        "precision": 0.07142857142857142,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.07692307692307691,
+        "support": 12
+    },
+    "baseball.team.runs_batted_in": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.runs_megs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.runs_scored_per_game": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.sacrifice_flies": {
+        "precision": 0.14285714285714285,
+        "recall": 0.14285714285714285,
+        "f1-score": 0.14285714285714285,
+        "support": 7
+    },
+    "baseball.team.sacrifice_hits": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.saves": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.saves_by_team": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.shutouts": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.shutouts_by_team": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.sits": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.sits_per_game": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.slg": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.so/w": {
+        "precision": 0.09090909090909091,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.08695652173913043,
+        "support": 12
+    },
+    "baseball.team.so9": {
+        "precision": 0.09090909090909091,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.08695652173913043,
+        "support": 12
+    },
+    "baseball.team.stolen_bases": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.strikeouts": {
+        "precision": 0.07407407407407407,
+        "recall": 0.10526315789473684,
+        "f1-score": 0.08695652173913043,
+        "support": 19
+    },
+    "baseball.team.strikeouts_by_team": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "baseball.team.total_ba": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.total_bases": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.triples": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7
+    },
+    "baseball.team.whip": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.wild_pitches": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12
+    },
+    "baseball.team.win_loss_percentage": {
+        "precision": 0.047619047619047616,
+        "recall": 0.05263157894736842,
+        "f1-score": 0.05,
+        "support": 19
+    },
+    "baseball.team.wins": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 19
+    },
+    "baseball.team.wins_by_team": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0
+    },
+    "birthdate": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8
+    },
+    "city": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8
+    },
+    "note": {
+        "precision": 0.2,
+        "recall": 0.25,
+        "f1-score": 0.22222222222222224,
+        "support": 8
+    },
+    "rank": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8
+    },
+    "school": {
+        "precision": 0.1111111111111111,
+        "recall": 0.125,
+        "f1-score": 0.11764705882352941,
+        "support": 16
+    },
+    "timestamp": {
+        "precision": 0.0625,
+        "recall": 0.0625,
+        "f1-score": 0.0625,
+        "support": 16
+    },
+    "accuracy": 0.044226044226044224,
+    "macro avg": {
+        "precision": 0.02829204867965532,
+        "recall": 0.02965845014399715,
+        "f1-score": 0.028709971316536027,
+        "support": 814
+    },
+    "weighted avg": {
+        "precision": 0.042880745460048206,
+        "recall": 0.044226044226044224,
+        "f1-score": 0.04305480305144648,
+        "support": 814
+    }
+}
